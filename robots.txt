@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chloe-superding.github.io/sitemap.xml
